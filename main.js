@@ -14,7 +14,7 @@ const words = {
     Movies: ["the matrix", "star wars", "joker", "titanic", "the lion king", "meg", "john wick", "spider man", "avengers", "toy story", "harry potter", "deadpool", "avatar"],
     "Series (Mosalsalat)": ["see", "prison break", "game of thrones", "the 100", "vikings", "suits", "lost", "the witcher", "reacher"],
     "Famous Football Players": ["messi", "cristiano", "neymar", "ozil", "luis suarez", "ramos", "benzema", "mohamed salah"],
-    "Arab Countries": ["syria", "palestine", "yemen", "egypt", "bahrain", "qatar", "irag"],
+    "Arab Countries": ["syria", "palestine", "yemen", "egypt", "bahrain", "qatar", "iraq"],
     Anime: ["death note", "one piece", "naruto", "demon slayer", "one punch man", "hunter", "atack on titan", "jujutsu", "black clover", "bleach", "fire force"]
 }
 
